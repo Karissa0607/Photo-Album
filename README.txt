@@ -1,0 +1,1 @@
+Implementation of a photo album application that allows users to store photos on a secure cloud object storage service to provide an increase in security and scalability. This is accomplished through the usage of AWS S3 buckets using django for the website framework.  
